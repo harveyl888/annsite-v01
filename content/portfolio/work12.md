@@ -1,13 +1,13 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/portfolio/th_-_tcp.jpg"
+image = "img/portfolio/th_tcp.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "The Children's Place"
 weight = 0
 +++
 
-## THE CHILDREN'S PLACE "CELEBRATE THE WORLD OF KID."
+## "CELEBRATE THE WORLD OF KID."
 
 The Children’s Place is a leading retailer for kids, toddlers and babies in the US. 
 
