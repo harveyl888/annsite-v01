@@ -4,7 +4,7 @@ draft = false
 image = "img/portfolio/th_tcp.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "The Children's Place"
-weight = 0
+weight = 2
 +++
 
 ## "CELEBRATE THE WORLD OF KID."
