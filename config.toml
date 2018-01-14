@@ -1,4 +1,4 @@
-baseurl = "https://annsite.netlify.org/"
+baseurl = "https://annsite.netlify.com/"
 title = "Creative portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
