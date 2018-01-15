@@ -28,7 +28,7 @@ It won **One Show Bronze** and continued for years encompassing nearly 20 commer
 
 These billboard ads were created to run along side our can crushing TV spots. We created fake billboards for "un-manly" products and services that ran in high traffic areas for a couple of weeks. Then, overnight, the boards were seamlessly changed over so the next morning they appeared “crushed” by a giant beer can. 
 
-{{< figure src="/img/portfolio_images/mbl/MBLCanCrushOOH3.jpg" width = "600px"" >}}
+{{< figure src="/img/portfolio_images/mbl/MBLCanCrushOOH3.jpg" width="600"" >}}
 
 ![mbl_image](/img/portfolio_images/mbl/MBLCanCrushOOH3.jpg)
 
