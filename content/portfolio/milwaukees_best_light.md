@@ -13,32 +13,32 @@ What better way to punish unmanly behavior than to crush a man with a giant beer
 This campaign debuted during The World Series of Poker on ESPN and took the world by storm.
 It won **One Show Bronze** and continued for years encompassing nearly 20 commercials.
 
-              <figure class="player"><iframe src="https://player.vimeo.com/video/147605848" width="800" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></figure>
-              <br>
-              <figure class="player"><iframe src="https://player.vimeo.com/video/147956916" width="800" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></figure>
-              <br>
-              <figure class="player"><iframe src="https://player.vimeo.com/video/147605924" width="800" height="583" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></figure>
-              <br>
-              <figure class="player"><iframe src="https://player.vimeo.com/video/147605921" width="800" height="583" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></figure>
-              <br>
-              <figure class="player"><iframe src="https://player.vimeo.com/video/147605922" width="800" height="583" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></figure>
-              <br>
+{{< vimeo 147605848 >}}
+
+{{< vimeo 147956916 >}}
+
+{{< vimeo 147605924 >}}
+
+{{< vimeo 147605921 >}}
+
+{{< vimeo 147605922 >}}
+
 
 ### Can Crush Spectacular 
 
 These billboard ads were created to run along side our can crushing TV spots. We created fake billboards for "un-manly" products and services that ran in high traffic areas for a couple of weeks. Then, overnight, the boards were seamlessly changed over so the next morning they appeared “crushed” by a giant beer can. 
 
-![mbl_image](/img/portfolio_images/mbl/MBLCanCrushOO3.jpg)
+![mbl_image](/img/portfolio_images/mbl/MBLCanCrushOOH3.jpg)
 
-![mbl_image](/img/portfolio_images/mbl/MBLCanCrushOO4.jpg)
+![mbl_image](/img/portfolio_images/mbl/MBLCanCrushOOH4.jpg)
 
-![mbl_image](/img/portfolio_images/mbl/MBLCanCrushOO1.jpg)
+![mbl_image](/img/portfolio_images/mbl/MBLCanCrushOOH1.jpg)
 
-![mbl_image](/img/portfolio_images/mbl/MBLCanCrushOO2.jpg)
+![mbl_image](/img/portfolio_images/mbl/MBLCanCrushOOH2.jpg)
 
-![mbl_image](/img/portfolio_images/mbl/MBLCanCrushOO5.jpg)
+![mbl_image](/img/portfolio_images/mbl/MBLCanCrushOOH5.jpg)
 
-![mbl_image](/img/portfolio_images/mbl/MBLCanCrushOO6.jpg)
+![mbl_image](/img/portfolio_images/mbl/MBLCanCrushOOH6.jpg)
 
 ### Brewed For A Man’s Taste
 
